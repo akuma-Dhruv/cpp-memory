@@ -17,4 +17,5 @@ int main() {
 	cout << *(fr + 1) << endl;
 	cout << *(fr + 2) << endl;
 	cout << *(fr + 3) << endl;
+
 }
