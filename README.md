@@ -1,1 +1,2 @@
-Dynamic Memory allocation 
+Dynamic Memory allocation and other concepts
+
